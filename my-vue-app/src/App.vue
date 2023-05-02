@@ -2,11 +2,13 @@
   <div id="app">
     <img src="./assets/logo.png">
     <HelloWorld/>
+    <MyReal/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld'
+import MyReal from './components/MyComp.vue'
 
 export default {
   name: 'App',
