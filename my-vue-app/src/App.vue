@@ -8,12 +8,12 @@
 
 <script>
 import HelloWorld from './components/HelloWorld'
-import MyReal from './components/MyComp.vue'
+import MyReal from './components/MyComp'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,MyReal
   }
 }
 </script>
