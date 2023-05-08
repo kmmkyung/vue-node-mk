@@ -1,5 +1,5 @@
 {
-  "name": "my-vue-app",
+  "name": "my-vue-city-app",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "kmmkyung <01aldrn10@gmail.com>",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "vue": "^3.2.47",
+    "vue": "^2.5.2",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
